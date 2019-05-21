@@ -1,0 +1,65 @@
+Microsoft Windows [Version 10.0.14393]
+(c) 2016 Microsoft Corporation. All rights reserved.
+
+C:\Users\shash>bash
+56 packages can be updated.
+31 updates are security updates.
+shashankkarthikeyan@DESKTOP-JJ6HK0J:/mnt/c/Users/shash$ python
+>>> 18 + 3*5
+33
+>>> 158//3
+52
+>>> 158./3
+52.666666666666664
+>>> 158/3
+52
+>>> 23**3
+12167
+>>> 19-3**2+
+  File "<stdin>", line 1
+    19-3**2+
+           ^
+SyntaxError: invalid syntax
+>>> import random
+>>> myInt = random.randint(1,9889)
+>>> myInt + 321
+6440
+>>> myInt = myInt + 100
+>>> myInt/43
+144
+>>>
+>>> myInt%43
+27
+>>> from math import floor, ceil, log
+>>> floor(myInt/43)
+144.0
+>>> floor(myInt/43.)
+144.0
+>>> ceil(myInt/43)
+144.0
+>>> ceil(myInt/43.)
+145.0
+>>> log(12345, 31)
+2.7434599609091324
+>>> s = 'This is My first Example in IPython.'
+>>> s.find('is')
+2
+>>> s.find('s', 3)
+3
+>>> s.replace('is', 'at')
+'That at My first Example in IPython.'
+>>> len(s)
+36
+>>> s[3:8]
+'s is '
+>>> s[:3]
+'Thi'
+>>> s[3:3]
+''
+>>> s[5:]
+'is My first Example in IPython.'
+>>> s[:-1]
+'This is My first Example in IPython'
+>>> s[::-1]
+'.nohtyPI ni elpmaxE tsrif yM si sihT'
+>>> exit()

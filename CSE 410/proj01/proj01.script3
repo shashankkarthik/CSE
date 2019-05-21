@@ -1,0 +1,26 @@
+#!/bin/tcsh -f
+#**************************************
+# Shashank Karthikeyan
+# Computer Project 1
+# proj01.script3
+#**************************************
+
+
+#Sets data and header variables to appropriate files
+set data = "~cse410/Projects/project01.data"
+set head = "~cse410/Projects/project01.headers"
+
+#Displays proper number of stats that are sorted correctly.
+
+set N = $1
+set league = $2
+cat $head
+grep $league $data | sort -n -k11 -k5| head -$N
+
+
+
+
+
+
+
+

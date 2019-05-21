@@ -1,0 +1,600 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"che",
+				"check_for_win	function"
+			],
+			[
+				"opti",
+				"option	statement"
+			],
+			[
+				"move",
+				"move_within_tableau	function"
+			],
+			[
+				"to",
+				"to_col	param"
+			],
+			[
+				"from",
+				"from_col	param"
+			],
+			[
+				"valida",
+				"validate_move_within_tableau	function"
+			],
+			[
+				"OPTion",
+				"OPTION_ERROR	statement"
+			],
+			[
+				"last",
+				"last_in_foundation	statement"
+			],
+			[
+				"validate",
+				"validate_move_within_tableau	function"
+			],
+			[
+				"va",
+				"validate_move_to_foundation	function"
+			],
+			[
+				"optio",
+				"option_lst	statement"
+			],
+			[
+				"Opt",
+				"OPTION_ERROR	statement"
+			],
+			[
+				"option",
+				"option_lst	statement"
+			],
+			[
+				"get",
+				"getoption	function"
+			],
+			[
+				"opo",
+				"option_lst"
+			],
+			[
+				"user",
+				"user_option	statement"
+			],
+			[
+				"op",
+				"option	statement"
+			],
+			[
+				"opt",
+				"option_up	statement"
+			],
+			[
+				"to_co",
+				"to_col-1"
+			],
+			[
+				"valid",
+				"validate_move_within_tableau	function"
+			],
+			[
+				"st",
+				"stock	param"
+			],
+			[
+				"mu",
+				"move_to_foundation	function"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"form",
+				"from_col	param"
+			],
+			[
+				"card",
+				"card_select	statement"
+			],
+			[
+				"bottom",
+				"bottom_cards	statement"
+			],
+			[
+				"fo",
+				"foundation	param"
+			],
+			[
+				"deal",
+				"deal_to_tableau	function"
+			],
+			[
+				"a",
+				"append	function"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"conta",
+				"contacts_list"
+			],
+			[
+				"contacs",
+				"contacts_dict"
+			],
+			[
+				"contacts",
+				"contacts_list"
+			],
+			[
+				"contac",
+				"contacts_list"
+			],
+			[
+				"contact",
+				"contacts_list"
+			],
+			[
+				"new",
+				"new_email"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"dictioa",
+				"dictionary"
+			],
+			[
+				"cont",
+				"contacts_dict"
+			],
+			[
+				"co",
+				"contacts_dict"
+			],
+			[
+				"C",
+				"Choice"
+			],
+			[
+				"L",
+				"L2"
+			],
+			[
+				"count",
+				"count_9"
+			],
+			[
+				"tuple_a",
+				"tuple_apr"
+			],
+			[
+				"tuple_ma",
+				"tuple_may"
+			],
+			[
+				"lst",
+				"lst_tuples"
+			],
+			[
+				"tem",
+				"temp_lst"
+			],
+			[
+				"year",
+				"year_lst"
+			],
+			[
+				"ge",
+				"get_temp"
+			],
+			[
+				"data",
+				"data_file"
+			],
+			[
+				"l",
+				"line"
+			],
+			[
+				"lin",
+				"line_lst_temp"
+			],
+			[
+				"line",
+				"line_lst_temp"
+			],
+			[
+				"daa",
+				"data_file"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"cure",
+				"current_lowest"
+			],
+			[
+				"curr",
+				"current_lowest"
+			],
+			[
+				"W",
+				"WB_HI"
+			],
+			[
+				"WB",
+				"WB_HI"
+			],
+			[
+				"WB_",
+				"WB_UMI"
+			],
+			[
+				"cur",
+				"current_lowest"
+			],
+			[
+				"oen",
+				"open_file"
+			],
+			[
+				"inp",
+				"input_file"
+			],
+			[
+				"ave",
+				"average_percentage"
+			],
+			[
+				"lowe",
+				"lowest_percentage"
+			],
+			[
+				"low",
+				"lowest_percentage"
+			],
+			[
+				"sum",
+				"sum_percentages"
+			],
+			[
+				"incom",
+				"income_number"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"input",
+				"input_file"
+			],
+			[
+				"open",
+				"open_file"
+			],
+			[
+				"pr",
+				"process_file"
+			],
+			[
+				"cu",
+				"current_lowest"
+			],
+			[
+				"curre",
+				"current_lowest"
+			],
+			[
+				"in",
+				"input_file"
+			],
+			[
+				"income",
+				"income_level"
+			],
+			[
+				"fil",
+				"file_exists"
+			],
+			[
+				"ot",
+				"output_file"
+			],
+			[
+				"out",
+				"output_file"
+			],
+			[
+				"c",
+				"compressed_string"
+			],
+			[
+				"com",
+				"comp_input"
+			],
+			[
+				"cou",
+				"count_scissors"
+			],
+			[
+				"coun",
+				"count_rock"
+			],
+			[
+				"use",
+				"user_input"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 95.0,
+		"last_filter": "format",
+		"selected_items":
+		[
+			[
+				"format",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 398.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"proj03.py",
+			"ptyhon",
+			"print(\"OK\")",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/CSE 231/Computer Projects/project02/proj02.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/CSE 231/Computer Projects/project01/proj01.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project09/test.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Laboratory Exercises/Lab 12/lab12.partc.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project09/cards.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project09/proj09.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Laboratory Exercises/Lab 9/lab09.partd.py",
+		"/C/Users/Shashank/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Shashank/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Shashank/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Shashank/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Laboratory Exercises/Lab 11/lab11.partd.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project09/proj09_skeleton.py",
+		"/C/Users/Shashank/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project08/proj08.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project07/proj07.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project06/proj06c.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project06/proj06b.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project06/proj06a.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project05/proj05b.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project05/proj05a.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project04/proj04.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project03/proj03.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project02/proj02.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project01/proj01.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project08/tes.txt",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project08/contacts.txt",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project08/file.txt",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project08/test.txt",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project08/test.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project08/contacts2.txt",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Laboratory Exercises/Lab 11/lab11.partc.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Laboratory Exercises/Lab 11/document1.txt",
+		"/C/Users/Shashank/Desktop/test.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Laboratory Exercises/Lab 10/document1.txt",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project07/hearings.txt",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project07/inflation.txt",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project07/hearing_adjusted.txt",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project07/draw_bar_graph.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Laboratory Exercises/Lab 9/city_part.txt",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Laboratory Exercises/Lab 9/warblers.txt",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Laboratory Exercises/Lab 9/city_all.txt",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project06/test.txt",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project06/data_full.txt",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project06/data_avgs.txt",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project06/draw_graph.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Laboratory Exercises/Lab 8/scores.txt",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project05/polio.txt",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project05/test",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project05/test2",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project05/proj05parta.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Computer Projects/project04/proj05parta.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Laboratory Exercises/Excercise - 6/lab06.test.txt",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Laboratory Exercises/Excercise - 6/lab06.partb.py",
+		"/C/Users/Shashank/OneDrive/Documents/University/Classes/Fall 2015/CSE 231/Laboratory Exercises/Excercise - 6/lab06.parta.py",
+		"/C/Users/Shashank/Documents/CSE 231 projects/proj02/proj02.py",
+		"/C/Users/Shashank/Desktop/proj04.py"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n    ",
+			"7:10",
+			"current_lowest",
+			"income_number",
+			"69",
+			"parenthisis"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"7:11",
+			"current_highest",
+			"income_level",
+			"68",
+			"parenthesis"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+	"project": "proj01.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

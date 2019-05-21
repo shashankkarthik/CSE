@@ -1,0 +1,30 @@
+#!/bin/tcsh -f
+#**************************************
+# Shashank Karthikeyan
+# Computer Project 1
+# proj01.script4
+#**************************************
+
+#Checks for valid number of arguments
+if ($# != 2) then
+	echo "Invalid number of inputs"
+else
+	#Checks if valid number for 2nd token
+	if ($1 == 0 || $1 < 0) then
+		echo "Invalid number of players"
+	else
+		#Checks if valid string for 3rd token
+		if ($2 == "AL" || $2 == "NL") then
+			#Calls script3 to display correctly
+			./proj01.script3 $1 $2
+		else
+			echo "Invalid league"
+		endif
+	endif
+endif
+
+
+
+
+
+

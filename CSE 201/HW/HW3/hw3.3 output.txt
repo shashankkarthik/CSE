@@ -1,0 +1,7 @@
+C:\Users\shash\OneDrive\Documents\University\Classes\CSE 201\HW\HW3>hw3.3.py
+Enter the number of hours cycling: 2
+Enter the number of hours running: 3
+Enter the number of hours swimming: 1
+Weight loss: 0.6 pounds
+
+C:\Users\shash\OneDrive\Documents\University\Classes\CSE 201\HW\HW3>

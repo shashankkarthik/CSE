@@ -1,0 +1,3 @@
+Susan;517-345-1234;susan_smith@anr.msu.edu
+Dennis Jones;989-123-4567;Dennis@gmail.com
+Miller, Matthew;616-765-4321;matt@yahoo.com

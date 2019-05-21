@@ -1,0 +1,24 @@
+#!/bin/tcsh -f
+#**********************************************
+# Shashank Karthikeyan
+# Computer Project 1
+# projo1.script1
+#**********************************************
+
+
+
+echo "STATISTICS"
+
+#Sets data and header variables to the appropriate files
+set data = "~cse410/Projects/project01.data"
+set head = "~cse410/Projects/project01.headers"
+
+#Checks if team name is given
+if ($#argv != 1) then 
+	echo "Enter a team name"
+#Displays appropriatly sorted stats for given team
+else
+	cat $head
+	set name = $1
+	grep $name $data | sort -n -k11 -k5
+endif  

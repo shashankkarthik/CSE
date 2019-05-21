@@ -1,0 +1,17 @@
+#!/bin/tcsh -f
+#***************************************************
+# Shashank Karthikeyan
+# Computer Project 1
+# proj01.script2
+#***************************************************
+
+
+
+#For each team given as input, calls script1 with
+#that team name to display stats
+
+foreach team ($*)
+	./proj01.script1 $team
+	echo ""
+	echo ""
+end

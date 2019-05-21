@@ -1,0 +1,7 @@
+         Congressional Hearing Cost
+Name         Cost ($Million)         Year
+Benghazi     4.5                     2015
+Watergate    1.8                     1973
+Iran-Contra  3.9                     1987
+Starr       36.0                     1994
+9-11        14.4                     2002
