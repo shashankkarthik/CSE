@@ -1,0 +1,3 @@
+﻿  RotoScopeDoc.cpp
+c:\users\shash\onedrive\documents\university\classes\cse\cse 471\project02\step7_programming_reference\step7\rotoscope\rotoscopedoc.cpp(884): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  RotoScope.vcxproj -> C:\Users\shash\OneDrive\Documents\University\Classes\CSE\CSE 471\project02\Step7_programming_reference\step7\Debug\RotoScope.exe
