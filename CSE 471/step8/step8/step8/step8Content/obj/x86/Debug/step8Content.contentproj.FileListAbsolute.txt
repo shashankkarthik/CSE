@@ -1,0 +1,2 @@
+C:\Users\shash\OneDrive\Documents\University\Classes\CSE\CSE 471\step8\step8\step8\step8Content\obj\x86\Debug\step8Content.contentprojResolveAssemblyReference.cache
+C:\Users\shash\OneDrive\Documents\University\Classes\CSE\CSE 471\step8\step8\step8\step8Content\obj\x86\Debug\step8Content.contentproj.CoreCompileInputs.cache

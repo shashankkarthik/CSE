@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>ball.png</Source>
+      <Name>ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shash\OneDrive\Documents\University\Classes\CSE\CSE 471\step8\step8\step8\step8\bin\x86\Debug\Content\ball.xnb</Output>
+      <Time>2018-04-17T18:22:49.8724601-04:00</Time>
+    </Item>
+    <Item>
+      <Source>google.png</Source>
+      <Name>google</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shash\OneDrive\Documents\University\Classes\CSE\CSE 471\step8\step8\step8\step8\bin\x86\Debug\Content\google.xnb</Output>
+      <Time>2018-04-17T18:22:49.8881146-04:00</Time>
+    </Item>
+    <Item>
+      <Source>chimes.wav</Source>
+      <Name>chimes</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shash\OneDrive\Documents\University\Classes\CSE\CSE 471\step8\step8\step8\step8\bin\x86\Debug\Content\chimes.xnb</Output>
+      <Time>2018-04-17T18:23:08.0032333-04:00</Time>
+    </Item>
+    <Item>
+      <Source>apple.jpg</Source>
+      <Name>apple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shash\OneDrive\Documents\University\Classes\CSE\CSE 471\step8\step8\step8\step8\bin\x86\Debug\Content\apple.xnb</Output>
+      <Time>2018-04-17T18:56:15.2321193-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{1525055F-7DB8-446C-8FA9-A2E918751354}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\shash\OneDrive\Documents\University\Classes\CSE\CSE 471\step8\step8\step8\step8Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\shash\OneDrive\Documents\University\Classes\CSE\CSE 471\step8\step8\step8\step8\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\shash\OneDrive\Documents\University\Classes\CSE\CSE 471\step8\step8\step8\step8\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\shash\OneDrive\Documents\University\Classes\CSE\CSE 471\step8\step8\step8\step8\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-04-17T17:18:44.2016743-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
