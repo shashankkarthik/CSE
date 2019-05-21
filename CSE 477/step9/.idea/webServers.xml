@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="835458cf-218b-4fbe-91ce-b3170e594672" name="webdev-step9" url="http://webdev.cse.msu.edu/~karthik1/step9">
+        <fileTransfer host="arctic.cse.msu.edu" port="22" rootFolder="/user/karthik1/classweb/step9" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
