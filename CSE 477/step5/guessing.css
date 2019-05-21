@@ -1,0 +1,53 @@
+html, body, header, footer, hgroup, nav, article, section, figure,
+figcaption, h1, h2, h3, ul, li, body, div, p, img {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    border: 0;
+}
+
+body {
+    font-family: "Arial", sans-serif;
+}
+
+form {
+    border: thin solid black;
+
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+
+    padding-bottom: 1em;
+
+    width: 20em;
+
+
+}
+
+form h1 {
+    background-color: red;
+    padding-left: 0.5em;
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+}
+
+form p {
+    padding-top: 0.75em;
+
+    font-family: "Times New Roman", sans-serif;
+    font-size: 0.95em;
+
+    text-align: center;
+
+}
+
+
+input[type="submit"] {
+    width: 7em;
+}
+
+input[type="text"] {
+    width: 3em;
+}
+

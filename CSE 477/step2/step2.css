@@ -1,0 +1,120 @@
+html, body, header, footer, hgroup, nav, article, section, figure,
+figcaption, h1, h2, h3, ul, li, body, div, p, img {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    border: 0;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: grey;
+}
+
+body {
+    background-color: black;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-image: url('images/cave-background.jpg');
+    font-family: "Arial", sans-serif;
+}
+
+
+header {
+    background-color: #3f3622;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header p {
+    text-align: right;
+    font-size: 0.8em;
+    padding-right: 0.5em;
+}
+
+header h1 {
+    color: white;
+    text-align: center;
+    font-size: 3em;
+}
+
+article {
+    background-color: white;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+article figure {
+    display: block;
+    width: 600px;
+    text-align: center;
+}
+
+article figure img {
+    max-width: 90%;
+    height: auto;
+    border: thin solid black;
+    padding: 0.5em;
+    margin-top: 1em;
+}
+
+.location {
+    text-align: center;
+    font-size: 1.5em;
+    padding: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.senses {
+    text-align: center;
+    font-size: 1.5em;
+    padding: 0;
+    margin: 0;
+}
+
+div.rooms {
+}
+
+div.room {
+    width: 200px;
+    display: inline-block;
+    padding-top: 1em;
+    text-align: center;
+}
+
+article div.room figure {
+    width: 200px;
+    text-align: center;
+}
+
+article div.room figure img {
+    border-style: none;
+
+}
+
+div.BottomText {
+    text-align: center;
+}
+
+div.BottomText em {
+    font-style: italic;
+    font-size: 1.25em;
+}
+
+div.BottomText p {
+    font-size: 1.5em;
+    padding: 0.5em;
+}
+
+div.InstructionArea p{
+    text-align: left;
+    font-family: "Times New Roman", Serif;
+    font-size: 1em;
+    padding: 1em;
+}
