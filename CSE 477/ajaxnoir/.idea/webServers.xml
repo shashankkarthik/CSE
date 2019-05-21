@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c974c05c-ddb0-4fc4-becf-885b6908f2ed" name="webdev-ajaxnoir" url="http://webdev.cse.msu.edu/~karthik1/ajaxnoir">
+        <fileTransfer host="arctic.cse.msu.edu" port="22" rootFolder="/user/karthik1/classweb/ajaxnoir" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
